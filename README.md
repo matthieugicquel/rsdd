@@ -1,4 +1,4 @@
-<h1 align="center">rsdd</h1>
+<h1 align="center">rsdd 🖍️</h1>
 
 <p align="center"><i>red-squiggle-driven-development</i></p>
 

@@ -1,12 +1,13 @@
 {
   "name": "rsdd",
-  "displayName": "rsdd",
+  "displayName": "Red squiggles average counter",
+  "publisher": "mgc",
   "description": "Count red squiggles on each save and display an average in the status bar",
   "repository": {
     "type": "git",
     "url": "https://github.com/matthieugicquel/rsdd.git"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
